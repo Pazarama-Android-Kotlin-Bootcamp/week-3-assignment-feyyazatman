@@ -8,7 +8,7 @@
 
 Ödev Görselleri
 
-![](Images/screenshot1.png "Screenshot\_1")  ![](Images/screenshot2.png "Screenshot\_0")    ![](Images/screenshot3.png "Screenshot\_4")
+![](Images/Screenshot1.png "Screenshot\_1")  ![](Images/Screenshot2.png "Screenshot\_0")    ![](Images/Screenshot3.png "Screenshot\_4")
 
 
 -----------------
